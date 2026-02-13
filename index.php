@@ -6,6 +6,7 @@
     <title>MOstrando mis skills con git up</title>
 </head>
 <body>
-    <p>MOstrando mis skills con git up</p>
+    <h1 class="index" id="index">Mostrando mis skills con git up</h1>
+
 </body>
 </html>
